@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
-
+# Hello Pages
+## This is my fake blog
+### Isn't it great
